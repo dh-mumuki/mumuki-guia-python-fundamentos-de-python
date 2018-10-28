@@ -15,6 +15,9 @@ print("Estoy aprendiendo" + mejor_lenguaje_de_programacion + "porque estoy  "+ m
 ```
 **_Salida>> Estoy aprendiendo Python porque estoy entusiasmado con Data Scicence_**
 
-
 Si estan de acuerdo con esa afirmación, los invito a seguir!
+
+Quizás no se encuentran entusiasmados, pero si estan motivados o divertidos.
+
+**Cuál sería la manera óptima para corregir la expresión?**
 
