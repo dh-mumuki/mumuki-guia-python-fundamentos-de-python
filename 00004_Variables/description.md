@@ -1,3 +1,10 @@
+En programación estamos constantemente trabajando con datos, y para almacenarlos recurrimos a la variables. Pensemos las variables como cajas, donde guaradaremos nuestros datos.
+La manera A estas cajas se les debe dar un nombre para poder buscarlas, x podemos guarda
+
+
+
+
+
 En programación estamos constantemente trabajando con datos y estos datos pueden ir variando, cómo la altura a la que vuela un pájaro.
 
 Entonces, cómo hago para referirme a la altura a la que vuela el pajaro? Ni siquiera es un valor fijo.
