@@ -13,5 +13,5 @@ Y también hay un cuarto tipo de dato, que es en realidad un subtipo del _intege
  * Boolean: `True` o `False`
 * Float: Números con decimales, positivos o negativos
 
-Entiendo que _flaot_ e _int_ (así se lo suele llamar) quedaron claros, pero no así _boolean_. Les propongo pensar al _boolean_ como un presencia-ausencia o un verdadero-falso (rienda suelta a la creatividad). Quizás ayuda en la comprensión recordar que representa números enteros, dado que es un subtipo de _int_. De hecho, `True` equivale a `1` y `False` a `0`.
+Entiendo que _flaot_ e _int_ (así se lo suele llamar) quedaron claros, pero no así _boolean_. Les propongo pensar al _boolean_ como un presencia-ausencia o un verdadero-falso (rienda suelta a la creatividad). Quizás, ayuda en la comprensión recordar que representa números enteros, dado que es un subtipo de _int_; de hecho, `True` equivale a `1` y `False` a `0`.
 
