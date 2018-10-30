@@ -67,7 +67,7 @@ _**Salida>> 16**_
 
 
 Lo operdaores son los que uno puede encontrar en un calculadora, a excepción de `%`. Basicamente, este operdor devuele el resto del cociente entre los dos números que estan a su lado. Por ejemplo en el primer caso `4 % 2`, la división resulta 2 y el resto 0, ya que 2 entra un número entero de veces en 4, completandolo.
-En cambio, en le caso de `4 % 3`, la división y el resto resultan 1, dado que 3 entra una sola vez dentro de 4, pero resta una unidad para completar a 4.
+En cambio, en el caso de `4 % 3`, la división y el resto resultan 1, dado que 3 entra una sola vez dentro de 4, pero resta una unidad para completar a 4.
 
 
 
