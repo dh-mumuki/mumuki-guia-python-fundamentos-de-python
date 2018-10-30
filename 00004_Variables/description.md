@@ -1,12 +1,10 @@
-En programación estamos constantemente trabajando con datos, y para almacenarlos recurrimos a la variables. Pensemos las variables como cajas donde guaradaremos nuestros datos.
+En programación estamos constantemente trabajando con datos y estos datos pueden ir variando, cómo la altura a la que vuela un pájaro.
 
-Entonces para hacer uso de la variable debemos darle un nombre y asignarle un valor, lo que es análogo a ponerle un nombrew a la caja y guardar un dato adentro de ella. Recordemos que no pueden haber dos cajas con el mismo nombre.
+Entonces, cómo hago para referirme a la altura a la que vuela el pajaro? Ni siquiera es un valor fijo.
+
+Les presento a las **Variables**! Las varaibles nos permiten referinos a los datos. Toda variable lleva asociado un valor, y ese valor puede cambiar.
 
 Cuando hablamos de valor, no nos referimos a un valor númerico unicamente, un string también puede ser asociado a una variable.
-
-Un característica fundamental de los datos que guardamos es que pueden cambiar dentro de las cajas.
-
-Veamos un ejemplo que nos ayude a entender esto:
 
 ``` python
 mejor_lenguaje_de_programacion = 'Python'
