@@ -10,7 +10,7 @@ En primer lugar debemos definir nuestras variables:
 ``` python
 a = 4
 b = 2
-c = 3
+c = 3.0
 ```
 
 Ahora veamos como serían las operaciones del ejerciocio anterior, pero usando variables.
@@ -65,7 +65,7 @@ _**Salida>> 1**_
 a % b
 a % c
 ```
-_**Salida>> 0**_
+_**Salida>> 2**_
 
 _**Salida>> 1**_
 
@@ -91,6 +91,8 @@ c = 5
 Ahora veamos como serían las operaciones del ejerciocio anterior, pero usando variables.
 
 
+**SUMA**
+
 ``` python
 #Suma
 a + b
@@ -98,6 +100,8 @@ a + b
 _**Salida>> 12**_
 
 
+
+**RESTA**
 
 ``` python
 #Resta
@@ -107,6 +111,8 @@ _**Salida>> 4**_
 
 
 
+**PRODUCTO**
+
 ``` python
 #Producto
 a * b
@@ -115,6 +121,8 @@ _**Salida>> 32**_
 
 
 
+**DIVISIÓN**
+
 ``` python
 #División
 a / b
@@ -122,24 +130,27 @@ a / c
 ```
 _**Salida>> 2**_
 
-_**Salida>> 1**_
+_**Salida>> 1.33**_
 
 
+
+**MÓDULO**
 
 ``` python
 #Módulo
 a % b
 a % c
 ```
-_**Salida>> 0**_
+_**Salida>> 2**_
 
-_**Salida>> 1**_
+_**Salida>> 1.0**_
 
 
+
+**POTENCIA**
 
 ``` python
 #Potencia
 a ** b
 ```
 _**Salida>> 4096**_
-
