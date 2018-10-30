@@ -1,6 +1,6 @@
-Si hay algo en lo que las computadoras son muy buenas es haceindo cálculos.
+Si hay algo en lo que las computadoras son muy buenas es haceindo cálculos. Aprovechemosló!
 
-Aquí vemos un lista de los operadores de python:
+Aquí vemos un lista de los operadores de Python:
 
 * `+`: Suma
 * `-`: Resta
@@ -66,7 +66,8 @@ _**Salida>> 1**_
 _**Salida>> 16**_
 
 
-Lo operdaores son los que uno puede encontrar en un calculadora, a excepción de `%`. Basicamente, este operdor devuele el resto del cociente entre los dos números que estan a su lado.Por ejemplo en el primer caso `4 % 2`, la división resulta dos y el resto 0, ya que 2 entra un número entero de veces en 4. En cambio, en le caso de `4 % 3`, la división resulta 1 y el resto 1, dado que 3 entra 1 sola vez dentro de 4, pero resta una unidad para completar a 4.
+Lo operdaores son los que uno puede encontrar en un calculadora, a excepción de `%`. Basicamente, este operdor devuele el resto del cociente entre los dos números que estan a su lado. Por ejemplo en el primer caso `4 % 2`, la división resulta 2 y el resto 0, ya que 2 entra un número entero de veces en 4, completandolo.
+En cambio, en le caso de `4 % 3`, la división y el resto resultan 1, dado que 3 entra una sola vez dentro de 4, pero resta una unidad para completar a 4.
 
 
 
