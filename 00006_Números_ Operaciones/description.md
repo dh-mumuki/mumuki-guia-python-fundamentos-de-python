@@ -12,6 +12,8 @@ Aquí vemos un lista de los operadores de Python:
 
 Veamos algunas operaciones y sus salidas.
 
+**SUMA**
+
 ``` python
 #Suma
 4 + 2
@@ -20,48 +22,60 @@ Veamos algunas operaciones y sus salidas.
 _**Salida>> 6**_
 
 
+
+**RESTA**
+
 ``` python
 #Resta
 4 - 2
-
 ```
 _**Salida>> 2**_
 
 
+
+**PRODUCTO**
+
 ``` python
 #Producto
 4 * 2
-
 ```
 _**Salida>> 8**_
 
+
+
+**DIVISIÓN**
 
 ``` python
 #División
 4 / 2
 4 / 3
-
 ```
 _**Salida>> 2**_
 
 _**Salida>> 1**_
 
+> En este caso, pareciera haber un error porque 4 / 3 = 1.33. Lo que pasó es que usamos número enteros, _int_ (los recuerdan?) y entonces Python devuelve enteros. En el siguiente tema abordaremos estos casos.
+
+
+
+**MÓDULO**
 
 ``` python
 #Módulo
 4 % 2
 4 % 3
-
 ```
 _**Salida>> 0**_
 
 _**Salida>> 1**_
 
 
+
+**POTENCIA**
+
 ``` python
 #Potencia
 4 ** 2
-
 ```
 _**Salida>> 16**_
 

@@ -15,6 +15,7 @@ c = 3
 
 Ahora veamos como serían las operaciones del ejerciocio anterior, pero usando variables.
 
+**SUMA**
 
 ``` python
 #Suma
@@ -24,6 +25,8 @@ _**Salida>> 6**_
 
 
 
+**RESTA**
+
 ``` python
 #Resta
 a - b
@@ -32,6 +35,8 @@ _**Salida>> 2**_
 
 
 
+**PRODUCTO**
+
 ``` python
 #Producto
 a * b
@@ -39,6 +44,8 @@ a * b
 _**Salida>> 8**_
 
 
+
+**DIVISIÓN**
 
 ``` python
 #División
@@ -51,6 +58,8 @@ _**Salida>> 1**_
 
 
 
+**MÓDULO**
+
 ``` python
 #Módulo
 a % b
@@ -61,6 +70,8 @@ _**Salida>> 0**_
 _**Salida>> 1**_
 
 
+
+**POTENCIA**
 
 ``` python
 #Potencia
