@@ -8,10 +8,8 @@ print 'Hola, yo también soy un string. Pueden definirme con comillas simple o d
 ```
 
 
-Entonces...
 
-**¿Cuál de las siguientes opciones imprime el siguiente texto?** 
-<br>
+**Cuáles de las siguientes opciones imprimie el siguiente texto?**
 _Estas dos alternativas, nos dan la posibilidad de poder definir strings que contengan los símbolos "" o ''._
 
 
