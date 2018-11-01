@@ -1,5 +1,5 @@
-Ahora se viene lo interesante.
-Hablamos de variables, que eran cajas con nombre que contenían un valor. Ese valor podía ser varias cosas, y una de ellas es un número.
+Ahora se viene lo interesante...
+Hablamos de variables ¿Se acuerdan? que eran cajas con nombre que contenían un valor. Ese valor podía ser varias cosas, y una de ellas es un número.
 Por otro lado vimos cómo hacer operaciones con números. Entonces, qué se les viene a la mente?
 
 Ojalá haya sido que podemos hacer operaciones con las variables.
