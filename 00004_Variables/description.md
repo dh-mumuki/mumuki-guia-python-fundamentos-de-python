@@ -14,7 +14,7 @@ print("Estoy aprendiendo" + mejor_lenguaje_de_programacion + "porque estoy  "+ m
 > Para los nombres de las variables se remplazan los espacios entre palabras con un _ o poniendo la primer letra de la palabra con mayúscula.
 
 
-Si estan de acuerdo con esa afirmación, los invito a seguir!
+¡Si están de acuerdo con esa afirmación, los invito a seguir!
 
 Quizás no se encuentran entusiasmados, pero si estan motivados o divertidos.
 
