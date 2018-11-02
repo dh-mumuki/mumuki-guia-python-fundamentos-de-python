@@ -8,7 +8,7 @@ Aquí vemos un lista de los operadores de Python:
 * `/`: División
 * `%`: Resto de la división o móodulo
 * `**`: Potencia
-* 
+
 
 Veamos algunas operaciones y sus salidas.
 
