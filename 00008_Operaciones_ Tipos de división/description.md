@@ -6,3 +6,7 @@ En cualquier operación donde haya un número tipo _float_, el resultado será d
 
 > **Por qué creen que con que uno de los dos sea de tipo _float_ el resultado saldrá en ese tipo y no en tipo _int_?** <br>
 En cierta manera, el tipo de dato _float_ incluye a _int_, ya que `2.0` equivale a `2`. En la otra dirección, `2` no equivale a `2.1` o a cualquier otro 2 con decimales.
+
+<br>
+
+

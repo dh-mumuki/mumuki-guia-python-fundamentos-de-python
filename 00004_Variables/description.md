@@ -11,13 +11,13 @@ mejor_lenguaje_de_programacion = 'Python'
 mi_nueva_pasion = "Data Science"
 mi_estado = 'entusiasmado'
 
-print("Estoy aprendiendo" + mejor_lenguaje_de_programacion + "porque estoy  "+ mi_estado + "con " + mi_nueva_pasion)
+print("Estoy aprendiendo " + mejor_lenguaje_de_programacion + "porque estoy  "+ mi_estado + "con " + mi_nueva_pasion)
 ```
 **_Salida>> Estoy aprendiendo Python porque estoy entusiasmado con Data Scicence_**
 
 Si estan de acuerdo con esa afirmación, los invito a seguir!
 
-Quizás no se encuentran entusiasmados, pero si estan motivados o divertidos.
+Quizás no se encuentran entusiasmados, pero si estan motivados.
 
-**Cuál sería la manera óptima para corregir la expresión?**
+**Cuál sería la manera óptima para corregir la expresión, para que la frase sea: `Estoy aprendiendo Python porque estoy entusiasmado con Data Scicence?`**
 
