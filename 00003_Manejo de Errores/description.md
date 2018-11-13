@@ -16,3 +16,12 @@ print("Ahora Python comprende la instrucción e imprime esto mismo que estas ley
 ```
 **_Salida>> Ahora Python comprende la instrucción e imprime esto mismo que estas leyendo._**
 
+<br>
+
+**Cuál es el problema en este código?**<br>
+
+``` python
+print("Alguna vez se preguntaron"¿Por qué Python se llama así?"")
+print("Guido van Rossum, su creador, se inspiró en un comic que estaba leyendo:'Monty Python’s Flying Circus'. Cumplía con ser corto, único y misterioso"!)
+```
+
