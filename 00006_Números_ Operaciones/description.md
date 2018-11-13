@@ -86,3 +86,4 @@ En cambio, en el caso de `4 % 3`, la división y el resto resultan 1, dado que 3
 
 
 > Imagino que se estan preguntando que significa `#` y por que no aparece en la salida. Paciencia ya vamos a llegar.
+

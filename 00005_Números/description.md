@@ -16,5 +16,5 @@ Y también hay un cuarto tipo de dato, que es en realidad un subtipo del _intege
 Entiendo que _flaot_ e _int_ (así se lo suele llamar) quedaron claros, pero no así _boolean_. Les propongo pensar al _boolean_ como un presencia-ausencia o un verdadero-falso (rienda suelta a la creatividad). Quizás, ayuda en la comprensión recordar que representa números enteros, dado que es un subtipo de _int_; de hecho, `True` equivale a `1` y `False` a `0`.
 
 
-**Definir tres variables que almacenen el número "5" en los cuatro formatos que vimos: integer, float y string. las variables deberán llamarse "cinco_(tipo de dato)". Por último definfan una última variable que sea igual a `True`, y llamenla "Verdadero".
+**Definir tres variables que almacenen el número "5" en los cuatro formatos que vimos: integer, float y string. las variables deberán llamarse "cinco_(tipo de dato)". Por último definan una última variable que sea igual a `True`, y llamenla "Verdadero".
 **
