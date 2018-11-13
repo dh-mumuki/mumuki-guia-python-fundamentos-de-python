@@ -1,7 +1,7 @@
 Python permite combinar múltiples _strings_ utilizando el operador `+`.
 
 ``` python
-print("Este es un" + "mal ejemplo" + "porque me olvide" + 'los espacios entre strings.')
+print("Observar" + "en la salida" + "que quedó sin " + 'esapcios')
 
 ```
 
@@ -15,3 +15,7 @@ print("Este " +  'ejemplo' + " se lee mejor no?")
 
 **_Salida >> Este ejemplo se lee mejor no?_**
 
+
+<br>
+**Les propongo que prueben de escribir esta frase concatenando strings de a dos palabras:**<br>
+_Estos son mis primeros pasos concatenando strings de Python_
