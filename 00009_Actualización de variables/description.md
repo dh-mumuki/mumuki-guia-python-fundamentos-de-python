@@ -7,3 +7,5 @@ Sería interesante poder cambiarle el valor a una variable o mejor dicho actuali
 
 <br>
 
+
+http://www.mclibre.org/consultar/python/lecciones/python-variables-2.html#
