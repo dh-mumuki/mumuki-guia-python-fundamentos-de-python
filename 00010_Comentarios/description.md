@@ -15,4 +15,7 @@ Verán que aparece el símbolo `#` que hasta ahora era nuevo. Y lo curiosos es q
 De esta manera definimos al **Comentario** y la manera de que Python interprete ese texto explicativo como un comentario es anteponiendole el símbolo `#`.
 <br>
 
-Los comentarios son fundamentales cuando se desarrolla código, ya que seguramente otra persona se enfrente al código y es importante que entienda que se va haceindo.
+Los comentarios son fundamentales cuando se desarrolla código, ya que seguramente otra persona se enfrente al código y es importante que entienda que se va haceindo.<br>
+
+
+**Agreguen un comentario sobre el código del ejercicio anterior.**
