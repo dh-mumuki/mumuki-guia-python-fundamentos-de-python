@@ -7,5 +7,4 @@ Sería interesante poder cambiarle el valor a una variable o mejor dicho actuali
 
 <br>
 
-
-http://www.mclibre.org/consultar/python/lecciones/python-variables-2.html#
+**Prueben de modificar el precio de los alfajores para que el precio total (dos alfajores de dulce de leche y tres alfajores de chocolate) sea de 80$. Pueden utilizar el código del ejercicio anterior. :wink:**
