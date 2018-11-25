@@ -11,5 +11,5 @@ En cierta manera, el tipo de dato _float_ incluye a _int_, ya que `2.0` equivale
 
 
 **Dicho esto les propongo dos ejercicios para resolverlos con Python**
-1. Si tengo 15 huevos. Cuántos maples para 6 unidades puedo completar?
+1. Si tengo 15 huevos. Cuántos maples de 6 unidades puedo completar?
 2. Una bolsa con 14 canicas pesa 234gr. Con una exactitud de dos decimales, cuánto pesan 5 canicas?
