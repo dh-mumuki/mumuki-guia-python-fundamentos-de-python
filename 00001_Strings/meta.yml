@@ -1,22 +1,9 @@
 ---
 tags: []
 layout: input_bottom
-editor: multiple_choice
+editor: code
 type: problem
 extra_visible: false
-language: text
 manual_evaluation: false
-choices:
-- value: print("Estas dos alternativas, nos dan la posibilidad de poder definir strings
-    que contengan los símbolos "" o ''.")
-  checked: true
-- value: print(Estas dos alternativas, nos dan la posibilidad de poder definir strings
-    que contengan los símbolos " o '.'')
-  checked: false
-- value: print('Estas dos alternativas, nos dan la posibilidad de poder definir strings
-    que contengan los símbolos " o '.
-  checked: false
-- value: print('Estas dos 'alternativas', nos dan la posibilidad de poder definir
-    strings que contengan los símbolos "" o '.')
-  checked: false
+choices: []
 name: Strings

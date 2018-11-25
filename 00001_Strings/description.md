@@ -6,10 +6,6 @@ print "Hola, soy un string"
 
 print 'Hola, yo también soy un string. Pueden definirme con comillas simple o dobles!'
 ```
+<br>
 
-
-
-**Cuáles de las siguientes opciones imprimie el siguiente texto?**
-_Estas dos alternativas, nos dan la posibilidad de poder definir strings que contengan los símbolos "" o ''._
-
-
+**Escrbí un código que imprima el siguiente texto: "En Pyhton se denomina "string" a lo que comunmente llamamos "texto".**
