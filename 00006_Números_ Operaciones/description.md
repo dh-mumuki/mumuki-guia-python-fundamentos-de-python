@@ -1,4 +1,5 @@
-Si hay algo en lo que las computadoras son muy buenas es haceindo cálculos. Aprovechemosló!
+Si hay algo en lo que las computadoras son muy buenas es haciendo cálculos. Vamos a aprovecharlo!
+
 
 Aquí vemos un lista de los operadores de Python:
 
@@ -87,3 +88,12 @@ En cambio, en el caso de `4 % 3`, la división y el resto resultan 1, dado que 3
 
 > Imagino que se estan preguntando que significa `#` y por que no aparece en la salida. Paciencia ya vamos a llegar.
 
+<br>
+
+**Hagamos algunas operaciones. Escriban un código que imprima el resultado de los siguientes cálculos:**
+1.  10 + 9
+2.  8 - 7
+3.  6 * 5
+4.  4 / 3
+5.  2 % 1
+6.  10 ** 0
