@@ -1,10 +1,10 @@
-En programación estamos constantemente trabajando con datos y estos datos pueden ir variando, cómo la altura a la que vuela un pájaro.
+En programación estamos constantemente trabajando con datos y estos datos pueden ir variando como la altura a la que vuela un pájaro.
 
-Entonces, cómo hago para referirme a la altura a la que vuela el pajaro? Ni siquiera es un valor fijo.
+Entonces ¿Cómo hago para referirme a la altura a la que vuela el pájaro cuando ni siquiera es un valor fijo?
 
-Les presento a las **Variables**! Las varaibles nos permiten referinos a los datos. Toda variable lleva asociado un valor, y ese valor puede cambiar.
+Les presento a las Variables! Las variables nos permiten referinos a los datos. Toda variable lleva asociado un valor, y ese valor puede cambiar.
 
-Cuando hablamos de valor, no nos referimos a un valor númerico unicamente, un string también puede ser asociado a una variable.
+Cuando hablamos de valor no nos referimos a un valor numérico únicamente, un string también puede ser asociado a una variable.
 
 ``` python
 mejor_lenguaje_de_programacion = 'Python'
