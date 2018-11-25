@@ -1,4 +1,4 @@
-**Recuerdan que cuando definimos a las variables, aclaramos que se podían modificar?**
+**¿Recuerdan que cuando definimos a las variables, aclaramos que se podían modificar? **
 <br>
 Profundizaremos un poco en esa idea.
 <br>

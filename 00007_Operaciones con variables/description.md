@@ -1,11 +1,4 @@
-Ahora se viene lo interesante.
-Hablamos de variables, que eran cajas con nombre que contenían un valor. Ese valor podía ser varias cosas, y una de ellas es un número.
-Por otro lado vimos cómo hacer operaciones con números. Entonces, qué se les viene a la mente?
 
-Ojalá haya sido que podemos hacer operaciones con las variables.
-
-Veamos como se hace, basandonos en las operaciones del item anteior.
-En primer lugar debemos definir nuestras variables:
 
 ``` python
 a = 4
@@ -156,7 +149,7 @@ a ** b
 _**Salida>> 4096**_
 
 
-**Hagamos algunos cálculos para ejercitar las operacioens con Python. Supongamos que somos un kiosko y vendemos alfajores. El alfajor de dulce de leche vale $10 y el de chocolate $15. Se acercan dos chicos y compran dos alfajores de chocolate y tres alfajores de dulce de leche.**
+**Veamos un ejemplo práctico de operaciones con variables. Supongamos que somos un kiosko y vendemos alfajores. El alfajor de dulce de leche vale $10 y el de chocolate $15. Se acercan dos chicos y compran dos alfajores de chocolate y tres alfajores de dulce de leche.**
 <br>
 1. Cuánto gastaron en total los chicos?
 2. Cuánto valio en promedio cada alfajor?
