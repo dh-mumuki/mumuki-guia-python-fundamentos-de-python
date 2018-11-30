@@ -10,4 +10,3 @@ class TestFixtures(unittest.TestCase):
       
     def test(self):
       self.assertTrue(verdadero == True)
-      
