@@ -11,8 +11,8 @@ Esta función imprimirá en pantalla lo que este dentro de los paréntesis. Dura
 
 Para practicar, podes utilizar este compilador online: [IDE Python](https://repl.it/repls/VagueKosherMachinecode)
 
-**Cómo primer ejercicio les propongo ir a la IDE PYTHON y escribir y ejecutar (RUN) el siguiente código:**
+:memo: **Cómo primer ejercicio les propongo ir a la IDE PYTHON y escribir y ejecutar (RUN) el siguiente código:**
 
 `print("Hola Mundo!")`
 
-**Corramos el mismo código, pero en esta plataforma, aquí abajo.**
+:memo: **Corramos el mismo código, pero en esta plataforma, aquí abajo.**
