@@ -19,5 +19,5 @@ Pasando en limpio, tenemos:
 * Float: Números con decimales, positivos o negativos
 
 
-**Definir tres variables que almacenen el número "5" en los cuatro formatos que vimos: integer, float y string. las variables deberán llamarse "cinco_(tipo de dato)". Por último definan una última variable que sea igual a `True`, y llamenla "Verdadero".
+:memo:**Definir tres variables que almacenen el número "5" en los cuatro formatos que vimos: integer, float y string. las variables deberán llamarse "cinco_(tipo de dato)". Por último definan una última variable que sea igual a `True`, y llamenla "Verdadero".
 **
