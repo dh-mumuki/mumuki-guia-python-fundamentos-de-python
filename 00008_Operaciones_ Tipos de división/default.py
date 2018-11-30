@@ -1,12 +1,13 @@
 #Ejercicio 1
 huevos = 
-huevos_maple = 
+huevos_por_maple =  
 
 maples_completos = 
 
 
 #Ejercicio 2
 peso_bolsa_canicas = 
-peso_canica = 
+canicas_por_bolsa = 
 
-peso_cinco_canicas =
+peso_canica = 
+peso_cinco_canicas = 
