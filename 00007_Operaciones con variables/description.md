@@ -149,8 +149,8 @@ a ** b
 _**Salida>> 4096**_
 
 
-:MEMO:**Veamos un ejemplo práctico de operaciones con variables. Supongamos que somos un kiosko y vendemos alfajores. El alfajor de dulce de leche vale $10 y el de chocolate $15. Se acercan dos chicos y compran dos alfajores de chocolate y tres alfajores de dulce de leche.**
+:MEMO:**Veamos un ejemplo práctico de operaciones con variables. Supongamos que somos un kiosko y vendemos alfajores. El alfajor de dulce de leche vale $10 y el de chocolate $15. Se acercó un chico y compro dos alfajores de chocolate y tres alfajores de dulce de leche.**
 <br>
-1. Cuánto gastaron en total los chicos?<br>
+1. Cuánto gastó en total?<br>
 2. Cuánto valio en promedio cada alfajor?<br>
-3. Si hubiera una promoción y por comprar 6 alfajores el kiosko les hacía un 10% de descuento. Cuánto hubieran pagado en total, por los 6 alfajores?
+3. Si hubiera una promoción y por comprar 6 alfajores el kiosko le hacía un 10% de descuento. Cuánto hubieran pagado por los 3 alfajores de dulce de leche y 3 de chocolate?
