@@ -1,5 +1,5 @@
 input = '/*...content...*/'
-print_test = 'print "En Pyhton se denomina 'string' a lo que comunmente llamamos 'texto'"' 
+print_test = "print "+"En Pyhton se denomina 'string' a lo que comunmente llamamos 'texto'" 
 
 
 class TestFixtures(unittest.TestCase):
