@@ -8,4 +8,4 @@ print 'Hola, yo también soy un string. Pueden definirme con comillas simple o d
 ```
 <br>
 
-**Escrbí un código que imprima el siguiente texto: "En Pyhton se denomina "string" a lo que comunmente llamamos "texto".**
+**Escrbí un código que imprima el siguiente texto: "En Pyhton se denomina "string" a lo que comunmente llamamos "texto"".**
