@@ -9,13 +9,13 @@ print("Observar" + "en la salida" + "que quedó sin " + 'esapcios')
 
 ``` python
 
-print("Este " +  'ejemplo' + " se lee mejor no?")
+print("Este " +  'ejemplo' + " se lee mejor, no?")
 
 ```
 
-**_Salida >> Este ejemplo se lee mejor no?_**
+**_Salida >> Este ejemplo se lee mejor, no?_**
 
 
 <br>
-**Les propongo que prueben de escribir esta frase concatenando strings de a dos palabras:**<br>
+:memo:**Les propongo que impriman esta frase concatenando strings de a dos palabras:**<br>
 _Estos son mis primeros pasos concatenando strings de Python_
