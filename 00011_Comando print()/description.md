@@ -7,7 +7,8 @@ print("Hola Mundo!")
 ```
 **_Salida>>Hola Mundo!_** <br>
 
-Esta función imprimirá en pantalla lo que este dentro de los paréntesis. Durante este curso, utilizaremos el formato anterior para representar la salida en pantalla.<br>
+Esta función imprimirá en pantalla lo que este dentro de los paréntesis.<br>
+Durante este curso, utilizaremos el formato anterior para representar la salida en pantalla.<br>
 
 Para practicar, podes utilizar este compilador online: [IDE Python](https://repl.it/repls/VagueKosherMachinecode)
 
