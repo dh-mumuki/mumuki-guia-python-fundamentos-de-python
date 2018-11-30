@@ -91,9 +91,9 @@ En cambio, en el caso de `4 % 3`, la división y el resto resultan 1, dado que 3
 <br>
 
 **Hagamos algunas operaciones. Escriban un código que imprima el resultado de los siguientes cálculos:**
-1.  10 + 9
-2.  8 - 7
-3.  6 * 5
-4.  4 / 3
-5.  2 % 1
-6.  10 ** 0
+1. suma = 10 + 9
+2. resta = 8 - 7
+3. producto = 6 * 5
+4. division = 4 / 3
+5. modulo = 2 % 1
+6. potencia = 10 ** 0
