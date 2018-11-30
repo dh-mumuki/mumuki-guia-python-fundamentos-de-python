@@ -1,6 +1,3 @@
-mejor_lenguaje_de_programacion = 'Python'
-mi_nueva_pasion = "Data Science"
-mi_estado = 'motivados'
 
 class TestFixtures(unittest.TestCase):
    def test_print(self):
