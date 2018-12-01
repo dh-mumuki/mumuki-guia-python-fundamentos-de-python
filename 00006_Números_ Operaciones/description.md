@@ -91,6 +91,8 @@ En cambio, en el caso de `4 % 3`, la división y el resto resultan 1, dado que 3
 <br>
 
 :memo: **Hagamos algunas operaciones. Escriban un código que imprima el resultado de los siguientes cálculos:**
+<br>
+
 1. suma = 10 + 9
 2. resta = 8 - 7
 3. producto = 6 * 5
