@@ -1,9 +1,18 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
+editor: multiple_choice
 type: problem
 extra_visible: false
+language: text
 manual_evaluation: false
-choices: []
+choices:
+- value: '"En Pyhton se denomina "string" a lo que comunmente llamamos "texto"."'
+  checked: false
+- value: En Pyhton se denomina "string" a lo que comunmente llamamos "texto".
+  checked: true
+- value: En Pyhton se denomina 'string' a lo que comunmente llamamos 'texto'.
+  checked: false
+- value: 'SyntaxError: EOL while scanning string literal'
+  checked: false
 name: Strings

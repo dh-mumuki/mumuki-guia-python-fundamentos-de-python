@@ -8,4 +8,7 @@ print 'Hola, yo también soy un string. Pueden definirme con comillas simple o d
 ```
 <br>
 
-**Escribí un código que imprima el siguiente texto: "En Pyhton se denomina "string" a lo que comunmente llamamos "texto"".**
+**Cuál será la salida del siguiente código?
+``` python
+print('En Pyhton se denomina "string" a lo que comunmente llamamos "texto".')
+```
