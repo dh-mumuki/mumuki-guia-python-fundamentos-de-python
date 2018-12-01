@@ -18,12 +18,3 @@ print(Veran en la salida lo que sucede cuando uno se olvida las comillas)
 print("Ahora Python comprende la instrucción e imprime esto mismo que estas leyendo.")
 ```
 **_Salida>> Ahora Python comprende la instrucción e imprime esto mismo que estas leyendo._**
-
-<br>
-
-:memo: **Reescribe el siguiente código para que no de error.**<br>
-
-``` python
-print("Alguna vez se preguntaron"¿Por qué Python se llama así?"")
-```
-
