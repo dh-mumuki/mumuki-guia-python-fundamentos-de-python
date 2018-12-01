@@ -21,7 +21,7 @@ print("Ahora Python comprende la instrucción e imprime esto mismo que estas ley
 
 <br>
 
-**Reescribe el siguiente código para que no de error.**<br>
+:memo:**Reescribe el siguiente código para que no de error.**<br>
 
 ``` python
 print("Alguna vez se preguntaron"¿Por qué Python se llama así?"")
