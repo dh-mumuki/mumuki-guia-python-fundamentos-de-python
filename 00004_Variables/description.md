@@ -1,10 +1,8 @@
-En programación estamos constantemente trabajando con datos y estos datos pueden ir variando como la altura a la que vuela un pájaro.
+En programación estamos constantemente trabajando con datos que pueden ir variando en el tiempo. Por ejemplo, la altura a la que vuela un pájaro, la hora del día o el nombre de tu película preferida.
 
-Entonces ¿Cómo hago para referirme a la altura a la que vuela el pájaro cuando ni siquiera es un valor fijo?
+Lo importante es que estos datos cambian y tienen distintos valores  a lo largo del tiempo. En python usamos las variables para definir los datos que tendrán valores cambiantes. Cada variable va a guardar un único valor en un momento (edad = 32) y podrá ir cambiando su valor en cualquier momento.
 
-Les presento a las Variables! Las variables nos permiten referinos a los datos. Toda variable lleva asociado un valor, y ese valor puede cambiar.
-
-Cuando hablamos de valor no nos referimos a un valor numérico únicamente, un string también puede ser asociado a una variable.
+Cuando hablamos de valor no nos referimos únicamente a los numéricos. También pueden ser strings y muchos tipos de formato más que veremos en el futuro.
 
 ``` python
 mejor_lenguaje_de_programacion = 'Python'
