@@ -1,4 +1,5 @@
-
+Ahora veamos como serían las operaciones del ejerciocio anterior, pero usando variables.
+<br>
 
 ``` python
 a = 4
@@ -6,7 +7,7 @@ b = 2
 c = 3.0
 ```
 
-Ahora veamos como serían las operaciones del ejerciocio anterior, pero usando variables.
+<br>
 
 **SUMA**
 
@@ -149,7 +150,7 @@ a ** b
 _**Salida>> 4096**_
 
 
-:MEMO:**Veamos un ejemplo práctico de operaciones con variables. Supongamos que somos un kiosko y vendemos alfajores. El alfajor de dulce de leche vale $10 y el de chocolate $15. Se acercó un chico y compro dos alfajores de chocolate y tres alfajores de dulce de leche.**
+:memo: **Veamos un ejemplo práctico de operaciones con variables. Supongamos que somos un kiosko y vendemos alfajores. El alfajor de dulce de leche vale $10 y el de chocolate $15. Se acercó un chico y compro dos alfajores de chocolate y tres alfajores de dulce de leche.**
 <br>
 1. Cuánto gastó en total?<br>
 2. Cuánto valio en promedio cada alfajor?<br>

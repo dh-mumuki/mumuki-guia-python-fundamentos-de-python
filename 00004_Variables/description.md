@@ -19,5 +19,5 @@ Si estan de acuerdo con esa afirmación, los invito a seguir!
 
 Quizás no se encuentran entusiasmados, pero si estan motivados.
 
-**Cuál sería la manera óptima para corregir la expresión, para que la frase sea: `Estoy aprendiendo Python porque estoy entusiasmado con Data Scicence?`**
+:memo: **Cuál sería la manera óptima para corregir la expresión, para que la frase sea: `Estoy aprendiendo Python porque estoy entusiasmado con Data Scicence?`**
 
