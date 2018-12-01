@@ -1,9 +1,18 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
+editor: multiple_choice
 type: problem
 extra_visible: false
+language: text
 manual_evaluation: false
-choices: []
+choices:
+- value: Estos son mis primeros pasos concatenando stringsde Python.
+  checked: false
+- value: Estos son mis primerospasos concatenando stringsd e Python.
+  checked: false
+- value: '"Estos son mis primerospasos concatenando stringsde Python."'
+  checked: false
+- value: Estos son mis primerospasos concatenando strings de Python.
+  checked: true
 name: 'Strings: Concatenar'
