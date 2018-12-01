@@ -5,6 +5,7 @@ En Python el comado designado para hacer eso es `print()`. Un ejemplo clásico e
 ``` python
 print("Hola Mundo!")
 ```
+<br>
 **_Salida>>Hola Mundo!_** <br>
 
 Esta función imprimirá en pantalla lo que este dentro de los paréntesis. Durante este curso, utilizaremos el formato anterior para representar la salida en pantalla.<br>
