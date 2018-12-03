@@ -9,4 +9,4 @@ class TestFixtures(unittest.TestCase):
       self.assertEquals(mi_nueva_pasion, "Data Science")
       
    def test_print(self):
-      self.assertEquals(mi_estado, estado)
+      self.assertEquals(mi_estado, estado, "ERROR")
