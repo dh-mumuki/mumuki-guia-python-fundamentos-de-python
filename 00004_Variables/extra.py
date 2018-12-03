@@ -1,1 +1,1 @@
-def console = fakeConsole
+console = fakeConsole
