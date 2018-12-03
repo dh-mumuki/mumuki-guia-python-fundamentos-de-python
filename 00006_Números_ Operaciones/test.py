@@ -15,4 +15,4 @@ class TestFixtures(unittest.TestCase):
     self.assertEquals(modulo, 0)
 
   def test(self):
-    self.assertEquals(potencia, 1)
+    self.assertEquals(potencia, 1, "Error")
