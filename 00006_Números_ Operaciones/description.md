@@ -13,6 +13,7 @@ Aquí vemos un lista de los operadores de Python:
 
 Veamos algunas operaciones y sus salidas.
 <br>
+
 ``` python
 4 + 2
 
