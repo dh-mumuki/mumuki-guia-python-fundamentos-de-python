@@ -1,4 +1,4 @@
-Si hay algo en lo que las computadoras son muy buenas es haciendo cálculos ¡Vamos a aprovecharlo! :sunglasses:
+Si hay algo en lo que las computadoras son muy buenas es haciendo cálculos ¡Vamos a aprovecharlo! :smirk:
 
 
 Aquí vemos un lista de los operadores de Python:
@@ -21,4 +21,4 @@ Veamos algunas operaciones y sus salidas.
 > 6
 ```
 
-> :memo: **Jugá en la consola a hacer operaciones matemáticas :smirk:**
+> :memo: **Jugá en la consola a hacer operaciones matemáticas.**
