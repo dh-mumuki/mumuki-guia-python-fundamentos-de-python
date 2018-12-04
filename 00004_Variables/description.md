@@ -19,9 +19,7 @@ print("Estoy aprendiendo " + mejor_lenguaje_de_programacion + "porque estoy  "+ 
 ```
 
 
-Si estan de acuerdo con esa afirmación, los invito a seguir!
+Si estás de acuerdo con esta afirmación, te invito a seguir!
 
-Quizás no se encuentran entusiasmados, pero si estan motivados.
-
+> Quizás no te encuentres entusiasmados pero sí está motivado.
 :memo: **Cuál sería la manera óptima para corregir la expresión, para que la frase sea: `Estoy aprendiendo Python porque estoy motivado con Data Science?`**
-
