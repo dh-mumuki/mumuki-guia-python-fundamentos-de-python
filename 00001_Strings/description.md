@@ -2,13 +2,14 @@ El texto en Python es considerado un tipo de dato específico llamado string (ca
 Así se define un string en Python:
 
 ``` python
-print "Hola, soy un string"
+print("Hola, soy un string")
 
-print 'Hola, yo también soy un string. Pueden definirme con comillas simple o dobles!'
+print('Hola, yo también soy un string. Pueden definirme con comillas simple o dobles!')
 ```
 <br>
 
 :memo: **Cuál será la salida del siguiente código?**
+
 ``` python
 print('En Pyhton se denomina "string" a lo que comunmente llamamos "texto".')
 ```
