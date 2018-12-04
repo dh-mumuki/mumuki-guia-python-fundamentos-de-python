@@ -1,18 +1,10 @@
 ---
 tags: []
 layout: input_bottom
-editor: multiple_choice
+editor: code
 type: problem
 extra_visible: false
 language: text
 manual_evaluation: false
-choices:
-- value: Estos son mis primerospasos concatenando stringsde Python.
-  checked: false
-- value: Estos son mis primeros pasos concatenando strings de Python.
-  checked: false
-- value: '"Estos son mis primerospasos concatenando stringsde Python".'
-  checked: false
-- value: Estos son mis primerospasos concatenando strings de Python.
-  checked: true
+choices: []
 name: Comentarios
