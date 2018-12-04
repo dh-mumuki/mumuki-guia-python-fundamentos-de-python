@@ -10,10 +10,9 @@ print("Este " +  'ejemplo' + " se lee mejor, no?")
 ム Este ejemplo se lee mejor, no?
 ```
 <br>
-> :memo: **Cómo será la salida de este código?**
+> :memo: **¿Cómo será la salida de este código?**
 
 <br>
 ``` python
 print ("Estos son mis primeros"+ "pasos concatenando"+" strings de Python.")
-
 ```
