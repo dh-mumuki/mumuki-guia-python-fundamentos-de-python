@@ -8,7 +8,7 @@ _En cierta manera, el tipo de dato _float_ incluye a _int_, ya que `2.0` equival
 <br>
 
 
-> :memo: **Dicho esto te propongo dos ejercicios para resolverlos con Python**: <br>
+> :memo: **Escribí un código que resuelva las siguientes preguntas:**: <br>
 1. Si tengo 15 huevos ¿Cuántos maples de 6 unidades puedo completar? <br>
 2. Una bolsa con 14 canicas pesa 234gr. Con una exactitud de dos decimales ¿Cuánto pesan 5 canicas? <br>
 
