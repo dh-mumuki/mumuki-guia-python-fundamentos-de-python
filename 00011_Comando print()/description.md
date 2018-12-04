@@ -20,6 +20,6 @@ Veamos un ejemplo:
 <br>
 
 ``` python
-print(5*5 + 4)
+print(5 * 5 + 4)
 ```
 > Hacé varias pruebas con el comando `print()` para ponerte canchero.
