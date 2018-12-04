@@ -18,4 +18,5 @@ print(valor_de_verdad)
 ム
 > True
 ```
-
+<br>
+> :memo: **Para continuar, definí una variable `me_gusta_el_helado` y asignale un valor de verdad. Luego imprimí por pantalla el valor de la variable**
