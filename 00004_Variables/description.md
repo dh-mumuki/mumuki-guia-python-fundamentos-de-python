@@ -5,7 +5,7 @@ Si queremos utilizar una variable lo primero que debemos hacer es asignarlo un v
 ``` python
 nombre_de_la_variable = valor
 ```
-
+Veamos otro ejmplo:<br>
 
 ``` python
 mejor_lenguaje_de_programacion = 'Python'
@@ -13,8 +13,11 @@ mi_nueva_pasion = "Data Science"
 mi_estado = 'entusiasmado'
 
 print("Estoy aprendiendo " + mejor_lenguaje_de_programacion + "porque estoy  "+ mi_estado + "con " + mi_nueva_pasion)
+
+ム
+> Estoy aprendiendo Python porque estoy entusiasmado con Data Scicence
 ```
-**_Salida>> Estoy aprendiendo Python porque estoy entusiasmado con Data Scicence_**
+
 
 Si estan de acuerdo con esa afirmación, los invito a seguir!
 
