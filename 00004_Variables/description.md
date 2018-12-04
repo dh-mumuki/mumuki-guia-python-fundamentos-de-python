@@ -21,4 +21,4 @@ print("Estoy aprendiendo " + mejor_lenguaje_de_programacion + "porque estoy  "+ 
 
 Si estás de acuerdo con esta afirmación, te invito a seguir!
 
-> :memo: **Para pasar al próximo ejercicio, asignale valor a  dos variables una con tu nombre y la otra con tu edad. Luego, presioná Enviar.**
+> :memo: **Para pasar al próximo ejercicio, asignale un valor a dos variables una con tu nombre y la otra con tu edad. Luego, presioná Enviar.**
