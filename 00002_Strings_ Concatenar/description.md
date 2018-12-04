@@ -2,26 +2,14 @@ Python permite combinar múltiples _strings_ utilizando el operador `+`.
 
 ``` python
 print("Este es" + "un mal ejemplo" + "porque me olvide" + 'los espacios entre strings.')
-
-```
-
-``` python
 ム Este esun mal ejemploporque me olvidelos espacios entre strings.
-
 ```
 
 ``` python
-
 print("Este " +  'ejemplo' + " se lee mejor, no?")
-
-```
-
-``` python
 ム Este ejemplo se lee mejor, no?
+
 ```
-
-
-
 <br>
 > :memo: **Cómo será la salida de este código?**
 
