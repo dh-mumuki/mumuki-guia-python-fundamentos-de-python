@@ -2,6 +2,8 @@ Ya vimos los valores numéricos y las cadenas de texto, pero en Python hay un ti
 * Boolean
 
 A los tipo de datos Boolean se los conoce como booleanos, y nos van a permitir representar dos valores lógicos, estos son:
+<br>
+
 * **True**:Representa el valor de que algo es verdadero.<br>
 
 * **False**: Representa el valor de que algo es falso.<br>
