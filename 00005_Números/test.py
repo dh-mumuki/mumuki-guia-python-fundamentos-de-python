@@ -10,6 +10,3 @@ class TestFixtures(unittest.TestCase):
 
   def test(self):
     self.assertEquals(cinco_string, 'cinco')
-      
-  def test(self):
-    self.assertEquals(verdadero, True)

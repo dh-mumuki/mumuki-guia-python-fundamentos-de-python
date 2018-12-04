@@ -6,4 +6,5 @@ Los números, en Python, son un tipo de dato que almacena valores numéricos. De
 * Float: Números con decimales, positivos o negativos
 * Complex: Números complejos (no vamos a utilizarlos)
 
-> :memo:**Definir tres variables que almacenen el número "5" en los tres tipos que vimos: integer, float y string. Las variables deberán llamarse "cinco_(tipo de dato)".**
+> :memo:**Definir tres variables que almacenen el número "5" en los tres tipos que vimos: integer, float y string.
+<br>Las variables deberán llamarse "cinco_(tipo de dato)".**
