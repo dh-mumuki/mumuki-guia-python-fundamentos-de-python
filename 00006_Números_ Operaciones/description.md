@@ -2,13 +2,13 @@ Si hay algo en lo que las computadoras son muy buenas es haciendo cálculos. Vam
 
 
 Aquí vemos un lista de los operadores de Python:
-
-* `+`: Suma
-* `-`: Resta
-* `*`: Multiplicaión o Producto
-* `/`: División
-* `%`: Resto de la división o móodulo
-* `**`: Potencia
+<br>
+`+`: Suma<br>
+`-`: Resta<br>
+`*`: Multiplicaión o Producto<br>
+`/`: División<br>
+`%`: Resto de la división o móodulo<br>
+`**`: Potencia
 
 
 Veamos algunas operaciones y sus salidas.
