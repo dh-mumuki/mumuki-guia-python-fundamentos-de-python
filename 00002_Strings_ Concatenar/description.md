@@ -8,7 +8,6 @@ print("Este es" + "un mal ejemplo" + "porque me olvide" + 'los espacios entre st
 ``` python
 print("Este " +  'ejemplo' + " se lee mejor, no?")
 ム Este ejemplo se lee mejor, no?
-
 ```
 <br>
 > :memo: **Cómo será la salida de este código?**
