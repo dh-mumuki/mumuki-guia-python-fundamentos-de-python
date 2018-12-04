@@ -18,5 +18,7 @@ print(Veran en la salida lo que sucede cuando uno se olvida las comillas)
 
 ``` python
 print("Ahora Python comprende la instrucción e imprime esto mismo que estas leyendo.")
+
+ム
+> Ahora Python comprende la instrucción e imprime esto mismo que estas leyendo.
 ```
-**_Salida>> Ahora Python comprende la instrucción e imprime esto mismo que estas leyendo._**
