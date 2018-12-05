@@ -9,4 +9,4 @@ class TestFixtures(unittest.TestCase):
     self.assertIsNotNone(mi_edad)
   
   def test(self):
-    self.assertIs(mi_edad, int,  "Debe ser un integer!")
+    self.assertTrue(tye(mi_edad) == int,  "Debe ser un integer!")
