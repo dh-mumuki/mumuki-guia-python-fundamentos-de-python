@@ -20,4 +20,4 @@ print(2 < 1) # Esto imprimirá por pantalla "false"
 ```
 
 > :memo: **Para continuar, defini dos variables: `un_numero_chico` y `un_numero_grande`, y asignales valores numéricos diferentes de acuerdo a sus nombres.  
-Luego definí la variable `es_menor` y asignale el resultado de comparar si `un_numero_chico` es **menor** que `un_numero_grande`; y definí la variable `es_mayor`, con el resultado de comparar si `un_numero_chico` es **mayor** que `un_numero_grande`.**
+Luego definí la variable `es_menor` y asignale el resultado de comparar si `un_numero_chico` es menor que `un_numero_grande`; y definí la variable `es_mayor`, con el resultado de comparar si `un_numero_chico` es mayor que `un_numero_grande`.
