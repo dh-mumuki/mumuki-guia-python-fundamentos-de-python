@@ -21,7 +21,7 @@ class TestFixtures(unittest.TestCase):
     self.assertAlmostEqual(resultado_division, numero_A / numero_B, 'Revisa resultado_division!')
 
   def test_resultado_multiplicacion(self):
-      self.assertEqual(resultado_division, numero_A * numero_B, 'Revisa resultado_multiplicacion!')
+      self.assertEqual(resultado_multiplicacion, numero_A * numero_B, 'Revisa resultado_multiplicacion!')
 
   def test_resultado_suma(self):
     self.assertEqual(resultado_suma, numero_A + numero_B, 'Revisa resultado_suma!')
