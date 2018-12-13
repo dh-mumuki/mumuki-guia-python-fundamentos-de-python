@@ -12,10 +12,10 @@ class TestFixtures(unittest.TestCase):
     self.assertNotEqual(es_menor, None)
 
   def un_numero_chico_tipo(self):
-    self.assertTrue(un_numero_chico = float or un_numero_chico = int)
+    self.assertTrue(un_numero_chico == float or un_numero_chico == int)
     
   def un_numero_grande_tipo(self):
-    self.assertIs(un_numero_grande = float or un_numero_grande = int)
+    self.assertTrue(un_numero_grande == float or un_numero_grande == int)
 
 
   def test_es_mayor(self):
