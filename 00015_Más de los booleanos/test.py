@@ -1,3 +1,3 @@
 class TestFixtures(unittest.TestCase):
-  def test_numeros(self):
-    self.assertNotEqual(un_numero_grande, None)
+  def un_numero_chico_esiste(self):
+    self.assertNotEqual(un_numero_chico, None, 'Recuerda definir la variable un_numero_chico!')
