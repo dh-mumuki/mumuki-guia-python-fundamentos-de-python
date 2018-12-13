@@ -25,4 +25,4 @@ class TestFixtures(unittest.TestCase):
 #    self.assertTrue(es_mayor == un_numero_grande >= un_numero_chico,'Recuerda definir la variable un_numero_chico!')
     
 #  def un_numero_chico_esiste(self):
-    self.assertTrue(es_menor == un_numero_grande <= un_numero_chico,'Recuerda definir la variable un_numero_chico!')
+#    self.assertTrue(es_menor == un_numero_grande <= un_numero_chico,'Recuerda definir la variable un_numero_chico!')
