@@ -27,5 +27,5 @@ class TestFixtures(unittest.TestCase):
     self.assertEqual(resultado_suma, numero_A + numero_B, 'Revisa resultado_suma!')
     
   def test_resultado_resta1(self):
-   self.assertTrue(self.assertTrue(resultado_resta == (numero_A - numero_B) or self.assertEqual(resultado_resta,numero_A - numero_B, 'Revisa resultado_resta!'))
+   self.assertTrue(self.assertTrue(resultado_resta == (numero_A - numero_B)) or self.assertEqual(resultado_resta,numero_A - numero_B, 'Revisa resultado_resta!'))
 
