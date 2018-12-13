@@ -19,3 +19,21 @@ class TestFixtures(unittest.TestCase):
 
   def test_numeros(self):
     self.assertNotEqual(resultado_division, None, 'No existe resultado_division!')
+
+  def test_numeros(self):
+    self.assertEqual(resultado_division, numero_A / numero_B, 'Revisa resultado_division!')
+
+  def test_numeros(self):
+    self.assertAlmostEqual(resultado_division, numero_A / numero_B, 'Revisa resultado_division!')
+
+  def test_numeros(self):
+    self.assertEqual(  def test_numeros(self):
+    self.assertEqual(resultado_division, numero_A * numero_B, 'Revisa resultado_division!')
+, numero_A / numero_B, 'Revisa resultado_multiplicacion!')
+
+  def test_numeros(self):
+    self.assertEqual(resultado_suma, numero_A + numero_B, 'Revisa resultado_suma!')
+    
+  def test_numeros(self):
+    self.assertTrue(self.assertEqual(resultado_resta, numero_A - numero_B, 'Revisa resultado_resta!') or self.assertEqual(resultado_resta, numero_A - numero_B, 'Revisa resultado_resta!'))
+
