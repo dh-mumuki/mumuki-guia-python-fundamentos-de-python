@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: numero_A
+  inspection: Assigns
+- binding: numero_B
+  inspection: Assigns
