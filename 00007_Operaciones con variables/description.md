@@ -12,4 +12,4 @@ print(siguiente_numero)
 > 125
 ```
 
-> :memo: **Veamos si se entiende: Asigná dos variables, numero_A y numero_B, y luego en las variables `resultado_suma`, `resultado_resta`, `resultado_multiplicacion` y `resultado_division` almacená el resultado que corresponda utilizando variables. Luego puedes mostrar los resultados imprimiendo cada uno de ellos, utilizando print().
+> :memo: **Veamos si se entiende: Asigná dos variables, numero_A y numero_B, y luego en las variables `resultado_suma`, `resultado_resta`, `resultado_multiplicacion` y `resultado_division` almacená el resultado que corresponda utilizando variables. Luego puedes mostrar los resultados imprimiendo cada uno de ellos, utilizando print().**
