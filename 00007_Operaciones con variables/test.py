@@ -36,9 +36,3 @@ class TestFixtures(unittest.TestCase):
    self.assertTrue(((resultado_resta == (numero_A - numero_B)) or (resultado_resta == (numero_B - numero_A))), True)
   def test_resultado_division1(self):
    self.assertTrue((round(resultado_division) == round(numero_A / numero_B) or (round(resultado_division) == round(numero_B / numero_A)), True))
-   
-  def test_numero_A_cero(self):
-    self.assertNotEqual(numero_A, 0, 'numero_A debe ser distinto de 0!')
-      
-  def test_numero_B_cero(self):
-    self.assertNotEqual(numero_B, 0, 'numero_B debe ser distinto de 0!')
