@@ -24,8 +24,8 @@ class TestFixtures(unittest.TestCase):
   def test_resultado_division_existencia(self):
     self.assertNotEqual(resultado_division, None, 'No existe resultado_division!')
 
-  def test_resultado_division(self):
-    self.assertAlmostEqual(resultado_division, numero_A / numero_B, 'Revisa resultado_division!')
+#  def test_resultado_division(self):
+#    self.assertAlmostEqual(resultado_division, numero_A / numero_B, 'Revisa resultado_division!')
 
   def test_resultado_multiplicacion(self):
       self.assertEqual(resultado_multiplicacion, numero_A * numero_B, 'Revisa resultado_multiplicacion!')
