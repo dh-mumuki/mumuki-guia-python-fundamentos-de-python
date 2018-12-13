@@ -3,4 +3,4 @@ class TestFixtures(unittest.TestCase):
     self.assertEqual(maples_completos, 2)
       
   def test(self):
-    self.assertAlmostEqual(peso_cinco_canicas, 83.57)
+    self.assertAlmostEqual(peso_cinco_canicas, 84)
