@@ -22,4 +22,4 @@ class TestFixtures(unittest.TestCase):
     self.assertTrue(es_mayor == (un_numero_grande >= un_numero_chico))
     
   def test_es_menor(self):
-    self.assertTrue(es_menor == (un_numero_grande <= un_numero_chico))
+    self.assertTrue(es_menor == (un_numero_chico <= un_numero_grande))
