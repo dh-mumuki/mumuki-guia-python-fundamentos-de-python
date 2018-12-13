@@ -29,3 +29,5 @@ class TestFixtures(unittest.TestCase):
   def test_resultado_resta1(self):
    self.assertTrue(((resultado_resta == (numero_A - numero_B)) or (resultado_resta == (numero_B - numero_A))), True)
 
+  def test_resultado_division1(self):
+   self.assertTrue(((round(resultado_division,5) == round((numero_A / numero_B)),5) or (round(resultado_resta,5) == round((numero_B - numero_A)),5), True)
