@@ -1,6 +1,6 @@
 class TestFixtures(unittest.TestCase):
-  def un_numero_chico_esiste(self):
-    self.assertNotEqual(un_numero_chico, None)
+  def un_numero_chico_existe(self):
+    self.assertTrue("un_numero_chico" in globals())
     
   def un_numero_chico_esiste(self):
     self.assertNotEqual(un_numero_grande, None)
