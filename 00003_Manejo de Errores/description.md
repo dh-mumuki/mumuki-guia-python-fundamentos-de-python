@@ -8,15 +8,11 @@ Un error común es olvidarse de poner las comillas para declarar un _string_.
 
 ``` python
 print(Veran en la salida lo que sucede cuando uno se olvida las comillas)
-
-ム
 >SyntaxError: EOL while scanning a string literal
 ```
 
 
 ``` python
 print("Ahora Python comprende la instrucción e imprime esto mismo que estas leyendo.")
-
-ム
 > Ahora Python comprende la instrucción e imprime esto mismo que estas leyendo.
 ```
