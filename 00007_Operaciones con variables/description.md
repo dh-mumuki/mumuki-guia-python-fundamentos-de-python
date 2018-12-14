@@ -5,10 +5,7 @@ Por ejemplo:
 ``` python
 un_numero = 124
 siguiente_numero = un_numero + 1
-
 print(siguiente_numero)
-
-ム
 > 125
 ```
 
