@@ -1,18 +1,15 @@
 class TestFixtures(unittest.TestCase):
   def un_numero_chico_existe(self):
-    self.assertTrue("un_numero_chico" in globals())
+    self.assertIsNone(un_numero_chico)
     
   def un_numero_chico_esiste(self):
+    self.assertIsNone(un_numero_grande)
     
-    self.assertNotEqual("un_numero_grande" in globals())
-    
-    raise Exception(globals())
-
   def es_mayor_esiste(self):
-    self.assertNotEqual(es_mayor, None)
+    self.assertIsNone(es_mayor)
     
   def es_menor_esiste(self):
-    self.assertNotEqual(es_menor, None)
+    self.assertIsNone(es_menor)
 
   def un_numero_chico_tipo(self):
     self.assertTrue(un_numero_chico == float or un_numero_chico == int)
@@ -22,7 +19,12 @@ class TestFixtures(unittest.TestCase):
 
 
   def test_es_mayor(self):
-    self.assertTrue(es_mayor == (un_numero_grande >= un_numero_chico))
+    
+    self.assertGreater(un_numero_grande, un_numero_chico)
+    self.assertTrue(un_numero_grande > un_numero_chico)
+    self.assertTrue(es_menor)
     
   def test_es_menor(self):
-    self.assertTrue(es_menor == (un_numero_chico <= un_numero_grande))
+    self.assertGreater(un_numero_chico, un_numero_grande)
+    self.assertTrue(un_numero_grande < un_numero_chico)
+    self.assertFalse(es_menor)
