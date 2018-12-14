@@ -6,4 +6,5 @@ class TestStringMethods(unittest.TestCase):
     self.assertTrue(type(mi_edad) == int,  "Debe ser un integer!")
   
   def test_3(self):
+    self.assertTrue(variable, 123)
     
