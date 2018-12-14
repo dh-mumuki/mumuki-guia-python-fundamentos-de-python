@@ -9,7 +9,7 @@ class TestFixtures(unittest.TestCase):
     self.assertEquals(cinco_integer, 5)
   
   def test_numeros_integer_tipo(self):
-    self.assertTrue(type(cinco_integer) == integer)
+    self.assertTrue(type(cinco_integer) == int )
 
   def test_numero_string(self):
     self.assertEquals(cinco_string, 'cinco')
