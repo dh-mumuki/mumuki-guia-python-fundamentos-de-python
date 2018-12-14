@@ -7,6 +7,8 @@ class TestFixtures(unittest.TestCase):
       self.assertNotEqual(me_gusta_el_helado, 1, "Intenta con un valor distino de 1")    
     except Exception as e:
       print e
+      raise Exception
+      
   def test_valor_de_verdad(self):
     self.assertEqual(me_gusta_el_helado, True)
     
