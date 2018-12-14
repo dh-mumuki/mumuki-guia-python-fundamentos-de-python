@@ -16,8 +16,6 @@ Veamos algunas operaciones y sus salidas.
 
 ``` python
 4 + 2
-
-ム
 > 6
 ```
 
