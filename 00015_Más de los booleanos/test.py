@@ -25,6 +25,6 @@ class TestFixtures(unittest.TestCase):
     self.assertTrue(es_menor)
     
   def test_es_menor(self):
-    self.assertGreater(un_numero_chico, un_numero_grande)
+    self.assertLessEqual(un_numero_chico, un_numero_grande)
     self.assertTrue(un_numero_grande < un_numero_chico)
     self.assertFalse(es_menor)
