@@ -6,8 +6,7 @@ class TestFixtures(unittest.TestCase):
     
     self.assertNotEqual("un_numero_grande" in globals())
     
-    raise Except:
-      print(globals())
+    raise Exception(globals())
 
   def es_mayor_esiste(self):
     self.assertNotEqual(es_mayor, None)
