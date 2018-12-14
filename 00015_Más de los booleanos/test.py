@@ -3,7 +3,8 @@ class TestFixtures(unittest.TestCase):
     self.assertTrue("un_numero_chico" in globals())
     
   def un_numero_chico_esiste(self):
-    self.assertNotEqual(un_numero_grande, None)
+    print(globals())
+    self.assertNotEqual("un_numero_grande" in globals())
 
   def es_mayor_esiste(self):
     self.assertNotEqual(es_mayor, None)
