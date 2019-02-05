@@ -1,15 +1,15 @@
 Si hay algo en lo que las computadoras son muy buenas es haciendo cálculos ¡Vamos a aprovecharlo! :smirk:
 
 
-Aquí vemos un lista de los operadores de Python:
+Aquí vemos una lista de los operadores de Python:
 <br>
 `+`: Suma<br>
 `-`: Resta<br>
-`*`: Multiplicaión o Producto<br>
+`*`: Multiplicación o producto<br>
 `/`: División<br>
-`%`: Resto de la división o móodulo<br>
+`//`: _Floor division_<br>
+`%`: Resto de la división o módulo<br>
 `**`: Potencia
-
 
 Veamos algunas operaciones y sus salidas.
 <br>
@@ -19,4 +19,4 @@ Veamos algunas operaciones y sus salidas.
 > 6
 ```
 
-> :memo: **Jugá en la consola a hacer operaciones matemáticas.**
+> :memo: **Jugá en la consola a hacer algunas operaciones matemáticas.**
