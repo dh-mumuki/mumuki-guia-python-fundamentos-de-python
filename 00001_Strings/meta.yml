@@ -7,12 +7,16 @@ extra_visible: false
 language: text
 manual_evaluation: false
 choices:
-- value: '"En Pyhton se denomina "string" a lo que comunmente llamamos "texto"."'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '"En Pyhton se denomina "string" a lo que comunmente llamamos "texto"."'
   checked: false
-- value: En Pyhton se denomina "string" a lo que comunmente llamamos "texto".
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En Pyhton se denomina "string" a lo que comunmente llamamos "texto".
   checked: true
-- value: En Pyhton se denomina 'string' a lo que comunmente llamamos 'texto'.
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En Pyhton se denomina 'string' a lo que comunmente llamamos 'texto'.
   checked: false
-- value: 'SyntaxError: EOL while scanning string literal'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 'SyntaxError: EOL while scanning string literal'
   checked: false
 name: Strings
