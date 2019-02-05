@@ -1,8 +1,5 @@
-Se puede agregar un texto explicativo en el código sin que sea impreso o ejecutado.<br>
-De esta manera definimos al `comentario` y la manera de que Python interpreta ese texto explicativo como un comentario es poniendo adelante el símbolo `#`. 
-<br>
+Se puede agregar un texto explicativo en el código sin que sea impreso o ejecutado. Cuando queremos escribir un comentario, debemos anteponer al texto el símbolo numeral (#). Dentro de una línea de código, todo lo que esté escrito luego del numeral no será ejecutado. Los comentarios pueden escribirse en cualquier parte de una línea y duran hasta el próximo salto de línea.<br>
 
-Los comentarios son fundamentales cuando se desarrolla código. Ya que, seguramente, otra persona se deba enfrentar al mismo y es importante que entienda qué se va haciendo.<br>
-
+Los comentarios son fundamentales cuando escribimos código, ya que constituyen una excelente manera de organizar nuestro trabajo. Al mismo tiempo, cuando programamos de forma grupal o colaborativa, los comentarios sirven como una guía que facilita la lectura del código, y permiten que cualquier persona tenga una primera referencia de qué se está haciendo en cada paso.<br>
 
 > :memo: **Para probar, agregá un comentario sobre el código del ejercicio anterior.**
