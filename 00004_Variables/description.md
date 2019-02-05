@@ -1,5 +1,4 @@
-Una variable es un espacio de memoria que podemos utilizar para almacenar valores.<br>
-Si queremos utilizar una variable lo primero que debemos hacer es asignarle un valor.<br>
+Una variable es un espacio de memoria que podemos utilizar para almacenar valores. Si queremos utilizar una variable lo primero que debemos hacer es asignarle un valor.<br>
 ¿Cómo hacemos eso?<br>
 
 ``` python
