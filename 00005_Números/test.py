@@ -12,4 +12,4 @@ class TestFixtures(unittest.TestCase):
     self.assertTrue(type(cinco_integer) == int )
 
   def test_numero_string(self):
-    self.assertEquals(cinco_string, 'cinco')
+self.assertTrue((cinco_string == '5') | (cinco_string.lower() == 'cinco'))

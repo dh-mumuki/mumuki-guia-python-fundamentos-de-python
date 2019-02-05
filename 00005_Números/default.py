@@ -1,5 +1,5 @@
-cinco_float =
+cinco_integer = 
 
-cinco_integer =
+cinco_float = 
 
 cinco_string = 
