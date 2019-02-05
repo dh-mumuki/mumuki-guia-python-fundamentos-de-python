@@ -3,5 +3,5 @@ numero_B =
 
 resultado_suma = 
 resultado_resta = 
-resultado_multiplicacio = 
+resultado_multiplicacion = 
 resultado_division = 
