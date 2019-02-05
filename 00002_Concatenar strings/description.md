@@ -1,8 +1,8 @@
 Python permite combinar múltiples _strings_ utilizando el operador `+`.
 
 ``` python
-print("Este es" + "un mal ejemplo" + "porque me olvide" + 'los espacios entre strings.')
-ム Este esun mal ejemploporque me olvidelos espacios entre strings.
+print("Este es" + "un mal ejemplo" + "porque me olvidé" + 'los espacios entre strings.')
+ム Este esun mal ejemploporque me olvidélos espacios entre strings.
 ```
 
 ``` python
@@ -15,5 +15,5 @@ Este ejemplo se lee mejor, no?
 > :memo: **¿Cómo será la salida de este código?**
 
 ``` python
-print ("Estos son mis primeros"+ "pasos concatenando"+" strings de Python.")
+print ("Estos son mis primeros" + "pasos concatenando" + " strings de Python.")
 ```
