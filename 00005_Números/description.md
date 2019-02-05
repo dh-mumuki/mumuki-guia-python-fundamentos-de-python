@@ -1,4 +1,4 @@
-Hasta ahora, sólo hemos trabajado con variables de tipo _string_, pero las variables también puden ser números.<br>
+Hasta ahora, sólo hemos trabajado con variables de tipo _string_, pero las variables también pueden ser números.<br>
 
 Los números, en Python, son un tipo de dato que almacena valores numéricos. Dentro de los números se pueden distinguir tres tipos distintos:
 
