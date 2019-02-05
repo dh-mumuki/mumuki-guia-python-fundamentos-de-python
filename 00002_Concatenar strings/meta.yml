@@ -19,4 +19,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Estos son mis primerospasos concatenando strings de Python.
   checked: true
-name: 'Strings: Concatenar'
+name: Concatenar strings

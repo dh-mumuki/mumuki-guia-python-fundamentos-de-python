@@ -1,5 +1,5 @@
-El texto en Python es considerado un tipo de dato específico llamado **string** (cadena). Se lo llama de esta forma porque consiste en un conjunto de letras, números y símbolos “encadenados”.<br>
-Así se define un string en Python:
+El texto en Python es considerado un tipo de dato específico llamado **_string_** (cadena). Se lo llama de esta forma porque consiste en un conjunto de letras, números y símbolos “encadenados”.<br>
+Así se define un _string_ en Python:
 
 ``` python
 print("Hola, soy un string")
