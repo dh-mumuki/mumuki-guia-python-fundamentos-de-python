@@ -1,4 +1,4 @@
-'''class TestFixtures(unittest.TestCase):
+class TestFixtures(unittest.TestCase):
   def test_numero_A(self):
     self.assertTrue(numero_A == None, '¡No existe numero_A!')
       
@@ -24,12 +24,12 @@
     self.assertNotEqual(resultado_division, None, '¡No existe resultado_division!')
 
   def test_resultado_multiplicacion(self):
-      self.assertEqual(resultado_multiplicacion, numero_A * numero_B, '¡Revisá resultado_multiplicacion!')
+      self.assertEqual(resultado_multiplicacion, numero_A * numero_B, '¡Revisa resultado_multiplicacion!')
 
   def test_resultado_suma(self):
-    self.assertEqual(resultado_suma, numero_A + numero_B, '¡Revisá resultado_suma!')
+    self.assertEqual(resultado_suma, numero_A + numero_B, '¡Revisa resultado_suma!')
     
   def test_resultado_resta1(self):
    self.assertTrue(((resultado_resta == (numero_A - numero_B)) or (resultado_resta == (numero_B - numero_A))), '¡Revisa resultado_resta!')
   def test_resultado_division1(self):
-   self.assertTrue((round(resultado_division) == round(numero_A / numero_B) or (round(resultado_division) == round(numero_B / numero_A)), '¡Revisa resultado_division!'))'''
+   self.assertTrue((round(resultado_division) == round(numero_A / numero_B) or (round(resultado_division) == round(numero_B / numero_A)), '¡Revisa resultado_division!'))
