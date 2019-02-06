@@ -12,13 +12,13 @@ class TestFixtures(unittest.TestCase):
     self.assertTrue(numero_B != 0, 'numero_B debe ser distinto de 0')
 
   def test_existencia_resta(self):
-    self.assertTrue(resultado_resta != None, 'No existe resultado_resta')
+    self.assertTrue('resultado_resta' in globals(), 'No existe resultado_resta')
     
   def test_existencia_suma(self):
-    self.assertTrue(resultado_suma != None, 'No existe resultado_suma')
+    self.assertTrue('resultado_suma' in globals(), 'No existe resultado_suma')
     
   def test_existencia_multiplicacion(self):
-    self.assertFalse(resultado_multiplicacion == None, 'No existe resultado_multiplicacion')
+    self.assertTrue('resultado_multiplicacion' in globals(), 'No existe resultado_multiplicacion')
     
   def test_existencia_division(self):
     
