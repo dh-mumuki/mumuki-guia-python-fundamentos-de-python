@@ -1,9 +1,9 @@
 class TestFixtures(unittest.TestCase):
   def test_existencia_numero_A(self):
-    self.assertTrue(numero_A == None, 'No existe numero_A')
+    self.assertFalse(numero_A == None, 'No existe numero_A')
       
   def test_existencia_numero_B(self):
-    self.assertTrue(numero_B == None, 'No existe numero_B')
+    self.assertFalse(numero_B == None, 'No existe numero_B')
 
   def test_valor_numero_A(self):
     self.assertTrue(numero_A == 0, 'numero_A debe ser distinto de 0')
@@ -15,13 +15,13 @@ class TestFixtures(unittest.TestCase):
     self.assertTrue(resultado_resta == None, 'No existe resultado_resta')
     
   def test_existencia_suma(self):
-    self.assertTrue(resultado_suma == None, 'No existe resultado_suma')
+    self.assertFalse(resultado_suma == None, 'No existe resultado_suma')
     
   def test_existencia_multiplicacion(self):
-    self.assertTrue(resultado_multiplicacion, None, 'No existe resultado_multiplicacion')
+    self.assertFalse(resultado_multiplicacion, None, 'No existe resultado_multiplicacion')
     
   def test_existencia_division(self):
-    self.assertNotEqual(resultado_division, None, 'No existe resultado_division')
+    self.assertTrue(isinstance(resultado_division, (None)), 'No existe resultado_division')
 
   def test_valor_multiplicacion(self):
       self.assertEqual(resultado_multiplicacion, numero_A * numero_B, 'Revisa resultado_multiplicacion')
