@@ -1,6 +1,6 @@
 El verdadero poder de los **_Boolean_** es que pueden surgir al hacer comparaciones de distintos valores con algunos operadores matemáticos.
 
-Por ejemplo, sabemos que si le preguntamos a alguien "¿2 es mayor a 1?", la persona nos va a decir "Sí, es verdadero, 2 es mayor a 1". Lo mismo pasa en Python cuando escribimos lo siguiente:
+Por ejemplo, sabemos que si le preguntamos a alguien "¿2 es mayor a 1?", la persona nos va a decir "sí, es verdadero, 2 es mayor a 1". Lo mismo pasa en Python cuando escribimos lo siguiente:
 
 ```python
 print(2 > 1) # Esto imprimirá por pantalla True
