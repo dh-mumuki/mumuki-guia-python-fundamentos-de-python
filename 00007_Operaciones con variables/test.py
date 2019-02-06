@@ -6,10 +6,10 @@ class TestFixtures(unittest.TestCase):
     self.assertFalse(numero_B == None, 'No existe numero_B')
 
   def test_valor_numero_A(self):
-    self.assertTrue(numero_A == 0, 'numero_A debe ser distinto de 0')
+    self.assertTrue(numero_A != 0, 'numero_A debe ser distinto de 0')
       
   def test_valor_numero_B(self):
-    self.assertTrue(numero_B == 0, 'numero_B debe ser distinto de 0')
+    self.assertTrue(numero_B != 0, 'numero_B debe ser distinto de 0')
 
   def test_existencia_resta(self):
     self.assertTrue(resultado_resta == None, 'No existe resultado_resta')
