@@ -19,7 +19,7 @@ class TestFixtures(unittest.TestCase):
     
   def test_resultado_multiplicacion_existencia(self):
     self.assertTrue(resultado_multiplicacion, None, '¡No existe resultado_multiplicacion!')
-'''
+    a='''
   def test_resultado_division_existencia(self):
     self.assertNotEqual(resultado_division, None, '¡No existe resultado_division!')
 
