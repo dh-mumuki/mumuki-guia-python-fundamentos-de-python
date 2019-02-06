@@ -9,5 +9,5 @@ class TestFixtures(unittest.TestCase):
     self.assertTrue(isinstance(cinco_integer, (int)), 'Este numero {}, no es un entero '.format( cinco_integer)) 
   
   def test_numero_string(self):
-    self.assertTrue(isinstance(cinco_integer, (str)), 'El tipo de datos no es correcto (no es str).')
+    self.assertTrue(isinstance(cinco_string, (str)), 'El tipo de datos no es correcto (no es str).')
     self.assertTrue((cinco_string == '5') | (cinco_string.lower() == 'cinco'), 'No se corresponde con la magnitud 5')
