@@ -21,7 +21,7 @@ class TestFixtures(unittest.TestCase):
     self.assertFalse(resultado_multiplicacion, None, 'No existe resultado_multiplicacion')
     
   def test_existencia_division(self):
-    self.assertTrue(isinstance(resultado_division, (None)), 'No existe resultado_division')
+    self.assertFalse(isinstance(resultado_division, (None)), 'No existe resultado_division')
 
   def test_valor_multiplicacion(self):
       self.assertEqual(resultado_multiplicacion, numero_A * numero_B, 'Revisa resultado_multiplicacion')
