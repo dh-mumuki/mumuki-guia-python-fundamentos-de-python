@@ -1,6 +1,8 @@
 class TestFixtures(unittest.TestCase):
   def test_numeros_float(self):
-    self.assertTrue(isinstance(cinco_float, (float)) and cinco_float == 5, 'La coma en los tipo de datos floats, es un punto.')
+    self.assertTrue(isinstance(cinco_float, (float)), 'La coma en los tipo de datos floats, es un punto.')
+    self.assertTrue(cinco_float == 5, 'El valor es incorrecto')
+  
 
   def test_numero_integer(self):
     self.assertTrue(cinco_integer == 5 and isinstance(cinco_integer, (int)), 'Este numero %s, no es un entero o no tiene el valor requerido'.format( cinco_integer)) 
