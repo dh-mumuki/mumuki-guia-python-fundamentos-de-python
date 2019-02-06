@@ -1,7 +1,7 @@
 class TestFixtures(unittest.TestCase):
   
   def un_numero_chico_existe(self):
-    self.assertIsNone(un_numero_chico, 'no existe el valor "un_numero_chico"')
+    self.assertTrue('un_numero_chico' in globals(), 'no existe el valor "un_numero_chico"')
     
   def un_numero_chico_esiste(self):
     self.assertIsNone(un_numero_grande, 'no existe el valor "un_numero_grande"')
