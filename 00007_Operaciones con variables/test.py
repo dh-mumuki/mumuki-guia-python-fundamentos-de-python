@@ -10,7 +10,7 @@ class TestFixtures(unittest.TestCase):
       
   def test_numero_B_cero(self):
     self.assertTrue(numero_B == 0, '¡numero_B debe ser distinto de 0!')
-
+    a='''
   def test_resultado_resta_existencia(self):
     self.assertTrue(resultado_resta == None, '¡No existe resultado_resta!')
     
@@ -19,7 +19,7 @@ class TestFixtures(unittest.TestCase):
     
   def test_resultado_multiplicacion_existencia(self):
     self.assertTrue(resultado_multiplicacion, None, '¡No existe resultado_multiplicacion!')
-    a='''
+    
   def test_resultado_division_existencia(self):
     self.assertNotEqual(resultado_division, None, '¡No existe resultado_division!')
 
