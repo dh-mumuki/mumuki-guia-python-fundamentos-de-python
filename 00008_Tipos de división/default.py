@@ -6,7 +6,7 @@ maples_completos =
 
 #Ejercicio 2
 peso_bolsa_canicas = 234.0
-canicas_por_bolsa = 14.0
+canicas_por_bolsa = 14
 
 peso_canica =  
 
