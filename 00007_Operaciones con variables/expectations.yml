@@ -1,8 +1,0 @@
----
-expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: numero_A
-  inspection: Assigns
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: numero_B
-  inspection: Assigns
